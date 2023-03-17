@@ -7,7 +7,7 @@ import org.junit.jupiter.api.TestInfo;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class Clac {
+public class ClacTest {
 
     Calculator calculator;
 
